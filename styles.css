@@ -56,7 +56,7 @@ p {
   height: 400px;
   width: 400px;
   margin: 0 auto;
-  background-image: url("/images/gift-cover.png");
+  background-image: url("./images/gift-cover.png");
   background-size: cover;
   border: 6px solid #d11149;
   border-radius: 10px;
